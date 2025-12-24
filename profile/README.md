@@ -69,17 +69,14 @@ Our controlled experimental infrastructure simulates real-world attack scenarios
 
 ## 📦 Research Areas
 
-<div align="center">
-
 | Security Domain | Focus Areas |
-|:|:|
+|-----------------|-------------|
 | **Detection Engineering** | MITRE ATT&CK coverage, signature development, behavioral analysis |
 | **Threat Intelligence** | IOC integration, threat hunting, intelligence sharing platforms |
 | **Automation & Orchestration** | SOAR playbooks, API integration, incident workflows |
 | **XDR Research** | Open XDR architecture, cross-layer correlation, unified visibility |
 | **AI-Assisted Analysis** | Alert prioritization, anomaly detection, intelligent enrichment |
 
-</div>
 
 <br>
 
