@@ -8,7 +8,7 @@
 A security research organization advancing SOC ecosystems through the integration of SIEM, SOAR, and XDR technologies with intelligent analysis and automation.
 </p>
 
----
+
 
 </div>
 
@@ -72,7 +72,7 @@ Our controlled experimental infrastructure simulates real-world attack scenarios
 <div align="center">
 
 | Security Domain | Focus Areas |
-|:---|:---|
+|:|:|
 | **Detection Engineering** | MITRE ATT&CK coverage, signature development, behavioral analysis |
 | **Threat Intelligence** | IOC integration, threat hunting, intelligence sharing platforms |
 | **Automation & Orchestration** | SOAR playbooks, API integration, incident workflows |
@@ -89,7 +89,7 @@ This is an **academic research initiative** focused on proof-of-concept implemen
 
 <br>
 
----
+
 
 <div align="center">
 
