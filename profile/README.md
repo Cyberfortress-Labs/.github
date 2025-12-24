@@ -54,7 +54,7 @@ We develop intelligent Security Operations Center (SOC) architectures that enhan
 - **Automated Response** — Improving MTTD and MTTR via orchestrated security workflows
 - **Detection Coverage** — Evaluating effectiveness using MITRE ATT&CK framework mapping
 
-<br>
+
 
 ## 🧪 Laboratory Environment
 
@@ -65,7 +65,6 @@ Our controlled experimental infrastructure simulates real-world attack scenarios
 - **Analysis Layer** — Centralized SIEM, threat intelligence platforms, case management
 - **Attack Simulation** — Brute-force, SQL injection, malware, web exploits
 
-<br>
 
 ## 📦 Research Areas
 
@@ -78,27 +77,19 @@ Our controlled experimental infrastructure simulates real-world attack scenarios
 | **AI-Assisted Analysis** | Alert prioritization, anomaly detection, intelligent enrichment |
 
 
-<br>
 
 ## ⚠️ Scope & Limitations
 
 This is an **academic research initiative** focused on proof-of-concept implementation and experimental validation in simulated environments. The system leverages existing open-source security tools and external AI services without proprietary ML model training. Large-scale enterprise deployment is outside the current research scope.
 
-<br>
-
-
-
-<div align="center">
 
 ### 📍 Affiliated Institution
 
 **University of Information Technology (UIT)**  
 Vietnam National University HCMC (VNU-HCM)
 
-<br>
 
 ### 🔗 Connect With Us
 
 🌐 [cyberfortress-labs.github.io](https://cyberfortress-labs.github.io/) | ✉️ [thienlai159@gmail.com](mailto:thienlai159@gmail.com)
 
-</div>
