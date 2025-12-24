@@ -1,50 +1,107 @@
-## Hi there
+<div align="center">
 
-Cyberfortress Labs is a security-focused research and engineering organization dedicated to building and evaluating modern Security Operations Center (SOC) ecosystems.
+# Cyberfortress Labs
 
-Our work focuses on the integration of SIEM, SOAR, and XDR concepts with practical experimentation, emphasizing open architectures, detection engineering, and intelligent analysis for monitoring, detection, and response to cyber attacks.
+**Building Intelligent Security Operations Through Research and Innovation**
 
+<p align="center">
+A security research organization advancing SOC ecosystems through the integration of SIEM, SOAR, and XDR technologies with intelligent analysis and automation.
+</p>
 
+---
 
-### What we work on
+</div>
 
-Cyberfortress Labs conducts hands-on research and development in the following areas:
+## 🔬 Research Focus
 
-- Security Operations Center (SOC) design and workflows  
-- Security Information and Event Management (SIEM)  
-- Security Orchestration, Automation, and Response (SOAR)  
-- Extended Detection and Response (XDR) and Open XDR  
-- Network and host-based detection systems  
-- Threat intelligence integration and IOC enrichment  
-- AI-assisted alert analysis and prioritization  
-- Detection coverage evaluation based on the MITRE ATT&CK framework  
+We develop intelligent Security Operations Center (SOC) architectures that enhance cyber threat detection and response capabilities through:
 
+<table>
+<tr>
+<td width="33%" valign="top">
 
+**SIEM Integration**
+- Centralized log collection & normalization
+- Real-time correlation & alerting
+- Multi-layer security monitoring
 
-### Contribution guidelines
+</td>
+<td width="33%" valign="top">
 
-This organization hosts both research and experimental repositories.
+**SOAR Automation**
+- Incident orchestration & case management
+- Response playbook automation
+- Analyst workload optimization
 
-- Public repositories are available for study, experimentation, and reference.
-- Contributions, feedback, and discussions are welcome through issues and pull requests where applicable.
-- Some repositories are maintained as proof-of-concept or academic experiments and may not follow production-ready standards.
+</td>
+<td width="33%" valign="top">
 
-Please refer to individual repository documentation for contribution details.
+**SmartXDR Intelligence**
+- AI-assisted threat analysis
+- False positive reduction
+- Priority-based alert enrichment
 
+</td>
+</tr>
+</table>
 
+<br>
 
-### Useful resources
+## 🎯 Research Objectives
 
-- Organization website: https://cyberfortress-labs.github.io/
-- Project documentation is provided within each repository.
-- Architecture designs, experiment notes, and evaluation results are documented alongside implementation code.
+- **Intelligent SOC Design** — Integrating SIEM, SOAR, and Open XDR concepts into a cohesive ecosystem
+- **Alert Optimization** — Reducing false positives through AI-assisted filtering and prioritization
+- **Automated Response** — Improving MTTD and MTTR via orchestrated security workflows
+- **Detection Coverage** — Evaluating effectiveness using MITRE ATT&CK framework mapping
 
-Pinned repositories highlight the primary research components and actively maintained projects.
+<br>
 
+## 🧪 Laboratory Environment
 
+Our controlled experimental infrastructure simulates real-world attack scenarios to validate detection and response capabilities:
 
-### Scope and intent
+- **Network Layer** — Firewall, IDS/IPS, Network Security Monitoring (NSM)
+- **Endpoint Layer** — Host-based detection agents and EDR tools
+- **Analysis Layer** — Centralized SIEM, threat intelligence platforms, case management
+- **Attack Simulation** — Brute-force, SQL injection, malware, web exploits
 
-Cyberfortress Labs is primarily a research-oriented environment.
+<br>
 
-The projects hosted here are designed to explore architectural concepts, detection strategies, and response workflows within controlled laboratory settings. Large-scale enterprise deployment and co
+## 📦 Research Areas
+
+<div align="center">
+
+| Security Domain | Focus Areas |
+|:---|:---|
+| **Detection Engineering** | MITRE ATT&CK coverage, signature development, behavioral analysis |
+| **Threat Intelligence** | IOC integration, threat hunting, intelligence sharing platforms |
+| **Automation & Orchestration** | SOAR playbooks, API integration, incident workflows |
+| **XDR Research** | Open XDR architecture, cross-layer correlation, unified visibility |
+| **AI-Assisted Analysis** | Alert prioritization, anomaly detection, intelligent enrichment |
+
+</div>
+
+<br>
+
+## ⚠️ Scope & Limitations
+
+This is an **academic research initiative** focused on proof-of-concept implementation and experimental validation in simulated environments. The system leverages existing open-source security tools and external AI services without proprietary ML model training. Large-scale enterprise deployment is outside the current research scope.
+
+<br>
+
+---
+
+<div align="center">
+
+### 📍 Affiliated Institution
+
+**University of Information Technology (UIT)**  
+Vietnam National University HCMC (VNU-HCM)
+
+<br>
+
+### 🔗 Connect With Us
+
+🌐 [cyberfortress-labs.github.io](https://cyberfortress-labs.github.io/) | ✉️ [thienlai159@gmail.com](mailto:thienlai159@gmail.com)
+
+</div>
